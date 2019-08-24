@@ -1,0 +1,10 @@
+,[CHECKVERSION],3.0.0.13
+HSPI_ULTRACID3.exe,.,0
+hspi_ultracid3.exe.config,.,0
+SQLite.Interop.dll,.\bin\hspi_ultracid3,0
+System.Data.SQLite.dll,.\bin\hspi_ultracid3,0
+hspi_ultracid3.aspx,.\html\hspi_ultracid3,0
+Web.Config,.\html\hspi_ultracid3,0
+UltraCID3_HSPI_Users_Guide.pdf,.\html\hspi_ultracid3,0
+images.zip,[DELFILES],.\html\images\hspi_ultracid3
+images.zip,[UNZIP],.\html\images\hspi_ultracid3
